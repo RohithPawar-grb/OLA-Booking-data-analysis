@@ -7,7 +7,6 @@ This project analyzes OLA ride booking data to understand booking trends, cancel
 The analysis is performed using SQL for data querying and Power BI for visualization.
 
 ## 🛠 Tools & Technologies
-- PostgreSQL
 - SQL
 - Power BI
 - Excel / CSV
